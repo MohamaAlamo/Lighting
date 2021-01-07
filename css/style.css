@@ -1,0 +1,100 @@
+.section{
+  padding-top: 4vw;
+  padding-bottom: 4vw;
+    }
+.tabs .indicator{
+  background-color: #1a237e;
+    }
+.tabs .tab a:focus, .tabs .tab a:focus.active{
+  background: transparent;
+    }
+
+.map {
+  min-width: 100%;
+  min-height: 400px;
+  margin-bottom: -20px; }
+
+.caption .slogan {
+  background: black;
+  font-size: 1.3rem; }
+
+.brand-logo{
+  height: 70px;
+  background: rgba(0, 0, 0, 0);
+  margin-top: -5px;
+}
+
+#indexnav{
+  position: absolute;
+  z-index: 1000;
+  height: 80px;
+}
+
+/* #nav1{
+  padding: 10px;
+} 
+
+#gnav{
+  height: 85px;
+} */
+
+
+#nav1 :hover{
+  /* padding-top: 20px;
+  padding-bottom: 20px;
+  height: 800px;
+  margin-top: 5px; */
+}
+
+
+
+.caption .tagline {
+  background: #000;
+  color: white;
+  font-size: 2rem; }
+
+.slider .indicators .indicator-item.active {
+  background-color: #31248C; }
+
+#icon{
+  background-color: #d51717;
+}
+
+
+
+.color1{
+  color: #31248C;
+}
+
+.color2{
+  color: #d51717;
+}
+
+#lighting{
+  margin-left: 90px;
+  color: #d51717;
+  font-size: 20px;
+}
+
+#design{
+  color: #31248C;
+  font-size: 20px;
+}
+
+/* #gal{
+  font-size: 20px;  
+} */
+
+#log{
+  height: 120px;
+  width: 90px;
+}
+
+#code{
+  font-size: 20px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+  margin: auto;
+
+}
